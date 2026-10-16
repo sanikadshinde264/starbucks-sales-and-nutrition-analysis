@@ -176,10 +176,10 @@ Include only the files and folders you actually create.
 
 ## 👤 Author
 
-**Your Name**
+**Sanika Shinde**
 
-- GitHub: [GitHub Profile](https://github.com/sanikadshinde264)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sanikadshinde264)
+- [GitHub](https://github.com/sanikadshinde264)
+- [LinkedIn](https://www.linkedin.com/in/sanikadshinde264)
 
 ## 📄 License
 
