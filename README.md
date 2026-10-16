@@ -8,7 +8,7 @@ This project demonstrates data cleaning, data modeling, DAX measures, KPI cards,
 
 ## 📊 Dashboard Preview
 
-![Starbucks Power BI Dashboard](Images/Starbucks Power BI Dashboard.png)
+![Starbucks Power BI Dashboard](Images/Starbucks_Power_BI_Dashboard.png)
 
 ## 🎯 Project Objectives
 
@@ -146,7 +146,7 @@ These examples assume a table named `Beverages` with the corresponding columns. 
 │   └── starbucks_beverages.csv
 |   └── directory.csv
 ├── Images/
-│   └── Starbucks Power BI Dashboard.png
+│   └── Starbucks_Power_BI_Dashboard.png
 ```
 
 Include only the files and folders you actually create.
