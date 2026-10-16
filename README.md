@@ -56,8 +56,6 @@ An area chart comparing average calories across categories. **Smoothies (277)**,
 ### 2. Starbucks Global Presence
 A bar chart ranking individual beverages by the plotted metric (highest bar: 175, e.g., Caffè Mocha; lowest bars at 0). A horizontal scroll bar lets users explore all items.
 
-> ⚠️ The values in this chart match the caffeine figures in the other visuals, so confirm the chart's title and measure match your intended data (e.g., rename it "Caffeine by Beverage" or connect real store-presence data).
-
 ### 3. Beverage Category Distribution
 A donut chart showing how the 25 beverages split across categories:
 
@@ -180,8 +178,8 @@ Include only the files and folders you actually create.
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](https://github.com/sanikadshinde264)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/sanikadshinde264)
+- GitHub: [GitHub Profile](https://github.com/sanikadshinde264)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sanikadshinde264)
 
 ## 📄 License
 
