@@ -138,7 +138,7 @@ These examples assume a table named `Beverages` with the corresponding columns. 
 ## 📂 Repository Structure
 
 ```text
-starbucks-power-bi-dashboard/
+/starbucks-sales-and-nutrition-analysis/
 ├── README.md
 ├── Dashboard/
 │   └── Starbucks Power BI Dashboard.pbix
@@ -155,7 +155,7 @@ Include only the files and folders you actually create.
 
 1. Install **Microsoft Power BI Desktop**.
 2. Clone or download this repository.
-3. Open `dashboard/Starbucks_Dashboard.pbix`.
+3. Open `Dashboard/Starbucks Power BI Dashboard.pbix`.
 4. If prompted, update the data source path to point to your local `data/` folder.
 5. Click **Refresh** to load the data.
 6. Use the **Protein Range** and **Beverage Prep** slicers to explore the visuals.
